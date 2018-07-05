@@ -169,17 +169,19 @@ public class MainActivity extends AppCompatActivity {
 
                 //
                 String ibeacon_data = bytesToHex(scanRecord).substring(0,60);
+                float humidity = Math.round((125 * (scanRecord[startByte + 22] & 0xff) * 256 / 65536 - 6) * 10) / 10;
+                float temperature = (float) Math.round((175.72 * (scanRecord[startByte + 23] & 0xff) * 256 / 65536 - 46.85) * 10) / 10;
 
-                peripheralTextView.append("Device Name: " + dev_name + "\n" + "UUID: " + uuid + "\n" + "Major: " + major + "  Minor: " + minor +"\n" + " Timestamp: " + dateFormatted + "\n" + " byte data: " + ibeacon_data + "\n\n");
+                peripheralTextView.append("Device Name: " + dev_name + "\n" + "UUID: " + uuid + "\n" + "Major: " + major + "  Minor: " + minor + "\n" + "Timestamp: " + dateFormatted + "\n"
+                                        + "Temperature: " + Float.toString(temperature) + "℃, Humidity: " + Float.toString(humidity) + "%\n" + "byte data: " + ibeacon_data + "\n\n");
 
                 File f = new File(filePath);
                 //writing to csv
                 try {
-                    if(f.exists()) {
+                    if(f.exists())
                         writer = new CSVWriter(new FileWriter(filePath, true));
-                    } else {
+                    else
                         writer = new CSVWriter(new FileWriter(filePath));
-                    }
 
                     String[] data = {dev_name,uuid,Integer.toString(major),Integer.toString(minor),dateFormatted,ibeacon_data};
 
@@ -240,6 +242,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("start scanning");
         peripheralTextView.setText("");
+        peripheralTextView.append("Saving in " + fileName + ".csv ...");
         startScanningButton.setVisibility(View.INVISIBLE);
         stopScanningButton.setVisibility(View.VISIBLE);
         AsyncTask.execute(new Runnable() {
@@ -253,6 +256,7 @@ public class MainActivity extends AppCompatActivity {
     public void stopScanning() {
         System.out.println("stopping scanning");
         peripheralTextView.append("Stopped Scanning");
+        peripheralTextView.append(fileName + ".csv saved");
         startScanningButton.setVisibility(View.VISIBLE);
         stopScanningButton.setVisibility(View.INVISIBLE);
         AsyncTask.execute(new Runnable() {
