@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b611ca9fdb06cde0dc9b0510e7ab41f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\351f775c4d39c4b9c476dc9d7958200f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b51637d7f4727119d5e46990e616664\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\55f9e9addf0fe6315b8830173587f31c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c339f4164563fb12c19cc0e5efd7bb8b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b382161e57475e91f55201b9a5ba5c41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\648f038efcce533cb7f52bf80ff0308b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bd1ee6cfa3046bd2723263a7edf12737\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb1aaad24ae07b9962a13a200b732cdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6f2ffa623abbfaa3590692e0a4571831\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\82bc544435a35e3cdb5dfa9269baa4bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d799020691c05a12939dacf20972d207\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\39a6ab3bf434db9c0fb4fde64d582328\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\666907af8fd3698e88b661b1120bea9c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76a84d397cb01f12d5379ab0404b5786\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0e839b54103e8f62ed0b4518b7c42f6c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4574dc5a6d15e5ffbf6150c1c9e71f12\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:10:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:11:5-91
+	android:required
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:11:65-88
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:11:19-63
+application
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:13:5-27:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b51637d7f4727119d5e46990e616664\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b51637d7f4727119d5e46990e616664\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.overlay.joonb.ibeacon_ver2.MainActivity
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:20:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b611ca9fdb06cde0dc9b0510e7ab41f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b611ca9fdb06cde0dc9b0510e7ab41f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\351f775c4d39c4b9c476dc9d7958200f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\351f775c4d39c4b9c476dc9d7958200f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b51637d7f4727119d5e46990e616664\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0b51637d7f4727119d5e46990e616664\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\55f9e9addf0fe6315b8830173587f31c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\55f9e9addf0fe6315b8830173587f31c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c339f4164563fb12c19cc0e5efd7bb8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c339f4164563fb12c19cc0e5efd7bb8b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b382161e57475e91f55201b9a5ba5c41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b382161e57475e91f55201b9a5ba5c41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\648f038efcce533cb7f52bf80ff0308b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\648f038efcce533cb7f52bf80ff0308b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bd1ee6cfa3046bd2723263a7edf12737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\bd1ee6cfa3046bd2723263a7edf12737\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb1aaad24ae07b9962a13a200b732cdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\fb1aaad24ae07b9962a13a200b732cdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6f2ffa623abbfaa3590692e0a4571831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\6f2ffa623abbfaa3590692e0a4571831\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\82bc544435a35e3cdb5dfa9269baa4bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\82bc544435a35e3cdb5dfa9269baa4bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d799020691c05a12939dacf20972d207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d799020691c05a12939dacf20972d207\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\39a6ab3bf434db9c0fb4fde64d582328\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\39a6ab3bf434db9c0fb4fde64d582328\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\666907af8fd3698e88b661b1120bea9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\666907af8fd3698e88b661b1120bea9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76a84d397cb01f12d5379ab0404b5786\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\76a84d397cb01f12d5379ab0404b5786\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0e839b54103e8f62ed0b4518b7c42f6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0e839b54103e8f62ed0b4518b7c42f6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4574dc5a6d15e5ffbf6150c1c9e71f12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4574dc5a6d15e5ffbf6150c1c9e71f12\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\JoonB\Desktop\Mobed\IBeacon_ver2\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\JoonB\.gradle\caches\transforms-1\files-1.1\dexter-5.0.0.aar\2418691523d9a3d7c0cf091e34fbd7d0\AndroidManifest.xml:28:13-60
