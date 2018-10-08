@@ -1,1 +1,2 @@
-# iBeaconLogging
+# iBeacon Logger
+for android. application
